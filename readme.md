@@ -23,5 +23,5 @@ A step by step series of examples that tell you how to get a development environ
 
 ```properties
 AZURE_OPENAI_DEPLOYMENT_NAME="GPT4"
-AZURE_OPENAI_ENDPOINT="https://openaidevdemo.openai.azure.com/openai/"
-AZURE_OPENAI_API_KEY="e40d255731064504a230ba0ba2401d37"
+AZURE_OPENAI_ENDPOINT="https://{YOURDENPOINT}}.openai.azure.com/openai/"
+AZURE_OPENAI_API_KEY="{YOURKEY}}"
